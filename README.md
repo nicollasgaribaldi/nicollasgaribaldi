@@ -1,5 +1,9 @@
 ## Welcome to my GitHub page
 
+- **Currently**: Pursuing a degree in Information Technology.
+- **Interests**: Data pipelines, ETL processes, data visualization, and analytics.
+- **Skills**: Python, SQL, data modeling, cloud platforms (AWS/GCP/Azure), and tools like Apache Spark, Pandas, and Tableau.
+
 <!--
 **nicollasgaribaldi/nicollasgaribaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
